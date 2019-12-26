@@ -1,0 +1,1 @@
+This will eventually become a picture filled walkthrough of how to use the software and how to get through some common issues.
