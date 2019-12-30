@@ -17,6 +17,6 @@ There is currently a short list of the devices that can be used with PCMHammer, 
 # Does PCMHammer datalog like the other commercial products?
 PCMHammer has a seperate basic datalogger that outputs a CSV file that can be imported into Excel or a similar program.
 If you are using one of the supported bluetooth products, you can also download an app such as Torque to datalog in much the same format.
-# I have PCMHammer and TunerPro, what do I now?
+# I have PCMHammer and TunerPro, what do I do now?
 Contribute! This repository can only get bigger and who knows, if theres enough demand we might see some more open source friendly software. 
 If you want to learn to tune there are many resources online, tuning let alone OEM tuning has a lot of data that can overwhelm you, it helps to wait a bit and read up on what everything does first.
