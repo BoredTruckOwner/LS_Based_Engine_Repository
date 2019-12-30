@@ -1,5 +1,6 @@
 ## Get the latest release @ https://github.com/LegacyNsfw/PcmHacks/releases
 ## If you have any issues you can contact the developers by creating a new thread @ http://pcmhacking.net
+## It is highly reccomended that you initially read and save your bin in a safe place as a failsafe.
 # What is PCMHammer?
 PCMHammer is a PCM flashing utility, it is not a one stop shop like some of the commercial products out there. 
 PCMHammer enables you to retrieve and send data to the PCM, basically email for your PCM. 
@@ -20,3 +21,6 @@ If you are using one of the supported bluetooth products, you can also download 
 # I have PCMHammer and TunerPro, what do I do now?
 Contribute! This repository can only get bigger and who knows, if theres enough demand we might see some more open source friendly software. 
 If you want to learn to tune there are many resources online, tuning let alone OEM tuning has a lot of data that can overwhelm you, it helps to wait a bit and read up on what everything does first.
+# I'm ready to tune, but I don't know which PCM I have.
+If you have your PCM just sitting on the bench just take a look at your hardware ID, if your PCM is tucked away in a some crevice of your car, then you can use PCMHammer's "Read Properties" function to check what PCM you have.
+Final option is to search the vehicle/donor VIN on GM's official site @ https://tis2web.service.gm.com/tis2web/
