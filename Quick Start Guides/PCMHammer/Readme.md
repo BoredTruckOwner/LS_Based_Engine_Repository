@@ -10,7 +10,7 @@ TunerPro is an Excel spreadsheet on steroids, it interprets the binary file (.bi
 The definintion file is, in extremely basic terms, a big dictionary for where to look for tables and flags. 
 There aren't that many XDFs for our PCMs because it requires extensive reverse engineering, imagine writing a dictionary for a language while you learn it.
 # How do I get stuff from TunerPro to PCMHammer?
-Everyone has a different way of doing it, I recommend you create a folder on your desktop and save all bins/tunes to said folder. From there its as easy as selecting that folder from your desktop and choosing the tune you want.
+Everyone has a different way of doing it, I recommend you create a folder on your desktop and save all bins/tunes to said folder. From there its as easy as selecting that folder from your desktop in PCMHammer and choosing the tune you want.
 While not required it is highly reccomended you keep extensive notes on what changes you have made, and iterate versions so that if you make a change that doesnt work you have somethign to revert back to.
 It's also good tuning practice to only work on one thing at a time, that way you can easily backtrack to what may be causing an issue should one arise.
 # What can I use with PCMHammer?
