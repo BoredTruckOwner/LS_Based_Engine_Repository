@@ -1,4 +1,4 @@
-## Soon to be basic troubleshooting
+#Basic Troubleshooting
 
 ### I've flashed my PCM with a new OS and now my engine won't run.
 #### Don't panic, there are a few things you need to check.
@@ -28,6 +28,8 @@ This is a pretty easy mistake to make, if they don't match you can get some pret
 * __Try re-reading the BIN from your PCM.__
 
 You may have just expereienced a wierd connection issue, re-reading is the easiest way to check.
+
+### If you would like contribute to this section reach out to me by emailing boredtruckowner@gmail.com.
 
 
  
