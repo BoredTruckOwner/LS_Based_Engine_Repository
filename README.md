@@ -1,7 +1,7 @@
 # XDF & BIN Collection
   > Welcome to the start of the collection of bins for the LS based engine family operating with the P59 or P01 ECU.
   
-  > This repository will be added to in the near future, this is jsut the beginning. 
+  > This repository will be added to in the near future, this is just the beginning. 
   ### How to Use This?
    Click the folder for the respective file that you are looking for. BINs are sorted by PCM type, modified or stock, and year, make and model, and lastly OS. XDFs are sorted by PCM type and OS.
   ### I Can't Find My Model Vehicle/Donor.
