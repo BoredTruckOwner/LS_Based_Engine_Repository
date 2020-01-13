@@ -2,6 +2,9 @@
 
 ### I've flashed my PCM with a new OS and now my engine won't run.
 #### Don't panic, there are a few things you need to check.
+* __Does the engine crank?__
+Depending on year, the PCM may control the start circuit. If your engine does not crank after flashing your PCM, you may have had an issue with the flash. Try recovering the PCM if possible or try reflashing.
+
 
 * __Is VATS disabled?__
 
@@ -17,7 +20,7 @@ If you can't read the BIN that most likely means something went wrong during the
 
 * __My engine still isn't running.__
 
-Reach out online at pcmhacking.net , those guys are wizards and can help work their internet magic.
+Reach out online at pcmhacking.net, those guys are wizards and can help work their internet magic.
 
 ### TunerPro is showing me some crazy numbers that don't make sense.
 
