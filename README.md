@@ -14,7 +14,7 @@
   - 12586243
   - 12589462
   - 12602801
-### If you would like more info on PCM tuning check out the wiki @ site.com.
+### If you would like more info on PCM tuning check out the wiki @ https://github.com/BoredTruckOwner/LS_Based_Engine_Repository/wiki
  
  ## All contents of this repository is freely provided as reference material, the use of these files is done at your own risk.
  
