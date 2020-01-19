@@ -24,3 +24,5 @@ If you want to learn to tune there are many resources online, tuning let alone O
 # I'm ready to tune, but I don't know which PCM I have.
 If you have your PCM just sitting on the bench just take a look at your hardware ID, if your PCM is tucked away in a some crevice of your car, then you can use PCMHammer's "Read Properties" function to check what PCM you have.
 Final option is to search the vehicle/donor VIN on GM's official site @ https://tis2web.service.gm.com/tis2web/
+# What is an OS and what is a BIN?
+ The OS is a bit of code that the PCM uses to dictate what each sensor and PCM output does as well as some cool math. The bin on the other hand is what the OS uses to determine what it can and can't do based on that cool math
